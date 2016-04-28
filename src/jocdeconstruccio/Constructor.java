@@ -5,7 +5,7 @@ import static java.lang.Thread.sleep;
 public class Constructor extends Huma {
 
     int casa = 0; //Cases del constructor
-    Materials[] tipus_casa;
+    Material[] tipus_casa;
     
     //Constructors
     public Constructor(CuaMaterials cua) {super(cua);}
